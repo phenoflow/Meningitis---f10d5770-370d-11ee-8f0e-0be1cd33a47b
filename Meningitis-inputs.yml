@@ -1,0 +1,21 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/meningitis---secondary.py
+inputModule3:
+  class: File
+  path: python/viral-meningitis---secondary.py
+inputModule4:
+  class: File
+  path: python/bacterial-meningitis---secondary.py
+inputModule5:
+  class: File
+  path: python/meningitis-classified---secondary.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
